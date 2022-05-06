@@ -27,7 +27,6 @@
 - 🇯🇵 Comfortable working in English and Japanese
 
 ### Mobile Apps
-- Groove Freedom [Website](http://www.groovefreedomapp.com/) | [Apple App Store](https://apps.apple.com/app/id963554681) | [Facebook Page](https://www.facebook.com/groovefreedom/)
 - Gap Click [Website](https://gapclick.app/) | [Apple App Store](https://apps.apple.com/app/id1443682940) | [Google Play Store](https://play.google.com/store/apps/details?id=com.sunrisingappdev.gapclick)
 
 ### OSS
