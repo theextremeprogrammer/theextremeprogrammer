@@ -19,9 +19,9 @@
 </p>
 
 - 📱 Full-stack mobile software engineer
-- 🧑🏻‍💻 Working @ [VMware Tanzu Labs](https://tanzu.vmware.com/labs) (previously [Pivotal Labs](https://en.wikipedia.org/wiki/Pivotal_Labs))
+- 🎶 Building apps to help drummers improve their craft
 - 🥁 Passionate about drumming
-- 🎶 Building apps to help drummers improve their craft (side projects)
+- 🧑🏻‍💻 Previously @ [VMware Tanzu Labs](https://tanzu.vmware.com/labs) (previously [Pivotal Labs](https://en.wikipedia.org/wiki/Pivotal_Labs))
 - 💪🏻 Loves physical and mental fitness
 - 🇺🇸 From Massachusetts, USA and living in Tokyo, Japan
 - 🇯🇵 Comfortable working in English and Japanese
