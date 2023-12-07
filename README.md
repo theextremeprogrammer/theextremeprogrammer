@@ -27,12 +27,12 @@
 - 🇯🇵 Comfortable working in English and Japanese
 
 ### Mobile Apps
+- Beat Note [Website](https://beat-note.app/) | [Apple App Store](https://apps.apple.com/app/id1539132475) | [Google Play Store](https://mailchi.mp/87648814c2fe/beat-note-for-android-sign-up) | [Product Roadmap](https://roadmap.beat-note.app/)
 - Gap Click [Website](https://gapclick.app/) | [Apple App Store](https://apps.apple.com/app/id1443682940) | [Google Play Store](https://play.google.com/store/apps/details?id=com.sunrisingappdev.gapclick)
 
 ### OSS
-
 - [Succinct](https://github.com/derekleerock/Succinct) - An iOS testing framework that I created to allow BDD'ing iOS apps without being bogged down by UI tests
-- Have made minor contributions to OSS repos that I use including [AudioKit](https://github.com/AudioKit/AudioKit) and [Parse](https://github.com/parse-community/Parse-SDK-iOS-OSX)
+- Have made minor contributions to OSS repos that I use, including [AudioKit](https://github.com/AudioKit/AudioKit) and [Parse](https://github.com/parse-community/Parse-SDK-iOS-OSX)
 
 ### As a software engineer, I am passionate about...
 - Building applications with a focus on high-quality software engineering and clean code
@@ -40,7 +40,7 @@
 - Creating a fun and engaging work environment that everyone on the team enjoys
 - Understanding what makes teams effective and experimenting to improve
 - Forging high-trust relationships within the team to allow us to do our best work with the least amount of friction
-- Crafting products that truly serves a purpose and people want to use
+- Crafting products that truly serve a purpose and people want to use
 - Making a positive impact on the world
 
 ### GitHub Stats
