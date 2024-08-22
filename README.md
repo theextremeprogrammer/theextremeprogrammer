@@ -1,8 +1,8 @@
-<p align="center">
-  <img src="https://github.com/theextremeprogrammer/theextremeprogrammer/raw/main/headerimage.png" width="410" alt="Groove Freedom on iPad" align="right" />
-</p>
-
 # Hello and こんにちは！ 🤘🏻
+
+<p align="center">
+  <img src="https://github.com/theextremeprogrammer/theextremeprogrammer/raw/main/beat-note-swiping.gif" width="550" alt="Groove Freedom on iPad" align="right" />
+</p>
 
 <p align="left">
   <a href="https://artandscienceofcoding.com/">
@@ -18,10 +18,10 @@
   </a>
 </p>
 
+- 🎶 Drumming x Software EdTech Innovator
 - 📱 Full-stack mobile software engineer
-- 🎶 Building apps to help drummers improve their craft
-- 🥁 Passionate about drumming
-- 🧑🏻‍💻 Previously @ [VMware Tanzu Labs](https://tanzu.vmware.com/labs) (previously [Pivotal Labs](https://en.wikipedia.org/wiki/Pivotal_Labs))
+- 🥁 Passionate drummer
+- 🧑🏻‍💻 Previously @ [VMware Tanzu Labs](https://tanzu.vmware.com/labs) ([Pivotal Labs](https://en.wikipedia.org/wiki/Pivotal_Labs))
 - 💪🏻 Loves physical and mental fitness
 - 🇺🇸 From Massachusetts, USA and living in Tokyo, Japan
 - 🇯🇵 Comfortable working in English and Japanese
