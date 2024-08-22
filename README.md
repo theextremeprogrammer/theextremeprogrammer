@@ -1,7 +1,7 @@
 # Hello and こんにちは！ 🤘🏻
 
 <p align="center">
-  <img src="https://github.com/theextremeprogrammer/theextremeprogrammer/raw/main/beat-note-swiping.gif" width="550" alt="Groove Freedom on iPad" align="right" />
+  <img src="https://github.com/theextremeprogrammer/theextremeprogrammer/raw/main/beat-note-swiping-loop.gif" width="550" alt="Groove Freedom on iPad" align="right" />
 </p>
 
 <p align="left">
