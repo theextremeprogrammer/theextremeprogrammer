@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/derekleerock/derekleerock/raw/main/headerimage.png" width="410" alt="Groove Freedom on iPad" align="right" />
+  <img src="https://github.com/theextremeprogrammer/theextremeprogrammer/raw/main/headerimage.png" width="410" alt="Groove Freedom on iPad" align="right" />
 </p>
 
 # Hello and こんにちは！ 🤘🏻
@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Website%2FBlog-artandscienceofcoding.com-%238cd2d5" alt="artandscienceofcoding.com"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/derekleerock/">
+  <a href="https://www.linkedin.com/in/theextremeprogrammer/">
     <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/>
   </a>
 
@@ -31,7 +31,7 @@
 - Gap Click [Website](https://gapclick.app/) | [Apple App Store](https://apps.apple.com/app/id1443682940) | [Google Play Store](https://play.google.com/store/apps/details?id=com.sunrisingappdev.gapclick)
 
 ### OSS
-- [Succinct](https://github.com/derekleerock/Succinct) - An iOS testing framework that I created to allow BDD'ing iOS apps without being bogged down by UI tests
+- [Succinct](https://github.com/theextremeprogrammer/Succinct) - An iOS testing framework that I created to allow BDD'ing iOS apps without being bogged down by UI tests
 - Have made minor contributions to OSS repos that I use, including [AudioKit](https://github.com/AudioKit/AudioKit) and [Parse](https://github.com/parse-community/Parse-SDK-iOS-OSX)
 
 ### As a software engineer, I am passionate about...
@@ -44,5 +44,5 @@
 - Making a positive impact on the world
 
 ### GitHub Stats
-[![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=derekleerock&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derekleerock&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=theextremeprogrammer&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theextremeprogrammer&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
